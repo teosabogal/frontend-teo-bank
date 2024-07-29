@@ -1,0 +1,26 @@
+.card-body{
+  margin-top: 10%;
+}
+.btn-save {
+  background-color: #f9e079;
+  border: 1px solid #f9e079;
+  color: #333;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-save:hover {
+  background-color: #f7d469;
+
+}
+
+
+
+.ng-invalid.ng-touched {
+  border-color: #dc3545;
+}
+
+.invalid-feedback {
+  color: #dc3545;
+  display: block;
+}
