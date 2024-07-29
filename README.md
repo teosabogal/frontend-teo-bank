@@ -7,7 +7,7 @@ Este es el frontend de Teo Bank, una aplicación Angular que consume una API Nod
 
 ### Pre-requisitos 📋
 
-- **Node.js** (versión LTS recomendada)
+- **Node.js** (versión 14 recomendada)
   - [Descargar Node.js](https://nodejs.org/)
   - Verificar instalación:
     ```sh
@@ -21,7 +21,7 @@ Este es el frontend de Teo Bank, una aplicación Angular que consume una API Nod
 - **Angular CLI**
   - Instalar Angular CLI:
     ```sh
-    npm install -g @angular/cli
+    npm install -g @angular/cli@9.0.5
     ```
   - Verificar instalación:
     ```sh
